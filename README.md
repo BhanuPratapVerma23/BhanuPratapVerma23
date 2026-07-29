@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Bhanu Pratap Verma
 
-### Data Analyst | Python | SQL | Power BI | MS Excel
+### 📊 Data Analyst | Python | SQL | Power BI | MS Excel
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Insights.;Passionate+about+Data+Analytics.;Building+Data-Driven+Solutions.;Always+Learning+Something+New." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Insights.;Passionate+about+Data+Analytics.;Building+Data-Driven+Solutions.;Always+Learning+Something+New." alt="Typing SVG" />
 
 </div>
 
@@ -24,49 +24,47 @@ I continuously improve my skills by building practical projects and learning mod
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100">
       <a href="https://bhanupratapverma23.github.io/portfolio/">
         <img src="https://img.icons8.com/color/480/globe--v1.png" width="40" height="40" alt="Portfolio"/><br/>
-        <b>Portfolio</b>
+        <sub><b>Portfolio</b></sub>
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
       <a href="https://www.linkedin.com/in/bhanu-pratap-verma-1990b4379/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/><br/>
-        <b>LinkedIn</b>
+        <sub><b>LinkedIn</b></sub>
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
       <a href="mailto:bhanuverma8081@gmail.com">
         <img src="https://img.icons8.com/color/480/gmail-new.png" width="40" height="40" alt="Gmail"/><br/>
-        <b>Gmail</b>
+        <sub><b>Gmail</b></sub>
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
       <a href="https://github.com/BhanuPratapVerma23">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>
-        <b>GitHub</b>
+        <sub><b>GitHub</b></sub>
       </a>
     </td>
   </tr>
 </table>
 
-
-
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-#### 🐍 Programming & Analysis
+#### 🐍 Programming & Database
 <table>
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
-      <b>Python</b>
+      <sub><b>Python</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/><br/>
-      <b>SQL</b>
+      <sub><b>SQL</b></sub>
     </td>
   </tr>
 </table>
@@ -76,15 +74,15 @@ I continuously improve my skills by building practical projects and learning mod
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br/>
-      <b>Pandas</b>
+      <sub><b>Pandas</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br/>
-      <b>NumPy</b>
+      <sub><b>NumPy</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn"/><br/>
-      <b>Scikit-Learn</b>
+      <sub><b>Scikit-Learn</b></sub>
     </td>
   </tr>
 </table>
@@ -94,133 +92,92 @@ I continuously improve my skills by building practical projects and learning mod
   <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/><br/>
-      <b>Power BI</b>
+      <sub><b>Power BI</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/480/microsoft-excel-2019.png" width="40" height="40" alt="MS Excel"/><br/>
-      <b>MS Excel</b>
+      <sub><b>MS Excel</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/><br/>
-      <b>Matplotlib</b>
+      <sub><b>Matplotlib</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/><br/>
-      <b>Seaborn</b>
+      <sub><b>Seaborn</b></sub>
     </td>
   </tr>
 </table>
----
-# 💡 Core Skills
-
-✔ Data Analytics
-
-✔ Data Cleaning
-
-✔ Data Visualization
-
-✔ Dashboard Development
-
-✔ Exploratory Data Analysis (EDA)
-
-✔ Business Intelligence
-
-✔ SQL Querying
-
-✔ Data-Driven Decision Making
-
-✔ Problem Solving
-
-✔ Statistical Analysis
 
 ---
 
-# 🚀 Featured Projects
+## 💡 Core Skills
+
+- 🔹 **Data Analytics & EDA:** Data Cleaning, Statistical Analysis, Exploratory Data Analysis.
+- 🔹 **Business Intelligence:** Dashboard Development, Power BI Reporting, KPI Tracking.
+- 🔹 **Database & Querying:** SQL Query Optimization, Database Management.
+- 🔹 **Soft Skills:** Data-Driven Decision Making, Problem Solving, Business Communication.
+
+---
+
+## 🚀 Featured Projects
 
 <table>
-
 <tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 HR Analytics Dashboard
-
-**Tech Stack**
-
-Power BI • MS Excel
-
-**Highlights**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 - Built an interactive HR dashboard using Power BI.
-- Designed KPI cards, charts and slicers for dynamic reporting.
+- Designed KPI cards, charts, and slicers for dynamic reporting.
 - Analyzed employee attrition trends to support business decisions.
-- Created a clean dashboard for HR insights.
+- Created clean visual layouts for HR insights.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 Customer Behavior Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Tech Stack**
-
-Python • SQL • Power BI • MS Excel
-
-**Highlights**
-
-- Cleaned and analyzed customer datasets.
-- Identified customer purchasing patterns and trends.
-- Built visual dashboards to present business insights.
-- Performed exploratory data analysis to support data-driven decisions.
+- Cleaned and analyzed large customer datasets.
+- Identified customer purchasing patterns and segmentation trends.
+- Built visual dashboards to present key business insights.
+- Performed exploratory data analysis for strategic decision-making.
 
 </td>
-
 </tr>
-
 <tr>
-
-<td colspan="2">
+<td colspan="2" valign="top">
 
 ### 🌐 Personal Portfolio Website
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
-**Highlights**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 - Designed and developed a fully responsive personal portfolio.
-- Integrated Resume, GitHub, LinkedIn and Certification links.
-- Optimized for desktop and mobile devices.
+- Integrated Resume, GitHub, LinkedIn, and Certification sections.
+- Optimized for desktop and mobile viewing.
 - Hosted using GitHub Pages.
 
 </td>
-
 </tr>
-
 </table>
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
-### Deloitte Data Analytics Job Simulation
-
-✔ Data Cleaning
-
-✔ Data Analysis
-
-✔ Data Visualization
-
-✔ Dashboard Development
-
-✔ Business Insights
-
-✔ Professional Reporting
+### 📜 Deloitte Data Analytics Job Simulation
+- **Key Modules:** Data Cleaning • Data Analysis • Visualization • Dashboard Development • Business Insights • Professional Reporting
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -234,38 +191,36 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BhanuPratapVerma23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=BhanuPratapVerma23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-- 📊 Data Analytics
-- 📈 Dashboard Development
-- 🗄 SQL & Database Management
-- 🐍 Python for Data Analysis
-- 💼 Building Real-World Analytics Projects
+- 📊 Deepening Expertise in Data Analytics & Visualization
+- 📈 Advanced Dashboarding in Power BI
+- 🗄️ Complex SQL Query Optimization
+- 🐍 Machine Learning Fundamentals with Python
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
-
-<a href="https://bhanupratapverma23.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bhanu-pratap-verma-1990b4379/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bhanuverma8081@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://bhanupratapverma23.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bhanu-pratap-verma-1990b4379/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:bhanuverma8081@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/BhanuPratapVerma23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
