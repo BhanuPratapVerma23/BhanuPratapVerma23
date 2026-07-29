@@ -24,27 +24,27 @@ I have hands-on experience in **data cleaning, dashboard development, business r
   <tr>
     <td align="center" width="100">
       <a href="https://bhanupratapverma23.github.io/portfolio">
-        <img src="https://img.icons8.com/color/480/globe--v1.png" width="40" height="40" alt="Portfolio"/><br/>
-        <sub><b>Portfolio</b></sub>
-      </a>
+        <img src="https://img.icons8.com/color/480/globe--v1.png" width="40" height="40" alt="Portfolio"/>
+      </a><br/>
+      <sub><b>Portfolio</b></sub>
     </td>
     <td align="center" width="100">
       <a href="https://linkedin.com/in/bhanu-pratap-verma-1990b4379">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/><br/>
-        <sub><b>LinkedIn</b></sub>
-      </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+      </a><br/>
+      <sub><b>LinkedIn</b></sub>
     </td>
     <td align="center" width="100">
       <a href="mailto:bhanuverma8081@gmail.com">
-        <img src="https://img.icons8.com/color/480/gmail-new.png" width="40" height="40" alt="Gmail"/><br/>
-        <sub><b>Gmail</b></sub>
-      </a>
+        <img src="https://img.icons8.com/color/480/gmail-new.png" width="40" height="40" alt="Gmail"/>
+      </a><br/>
+      <sub><b>Gmail</b></sub>
     </td>
     <td align="center" width="100">
       <a href="https://github.com/BhanuPratapVerma23">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>
-        <sub><b>GitHub</b></sub>
-      </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+      </a><br/>
+      <sub><b>GitHub</b></sub>
     </td>
   </tr>
 </table>
@@ -109,12 +109,13 @@ I have hands-on experience in **data cleaning, dashboard development, business r
 
 ---
 
-## 💡 Core Skills & Fundamentals
+## 💡 Skills
 
-- 🔹 **Data Analytics & Visualization:** Data Cleaning, Power Query, DAX, Dashboard Development, EDA.
-- 🔹 **Data Querying & Formulas:** Advanced Excel (VLOOKUP, HLOOKUP, XLOOKUP), SQL Querying.
-- 🔹 **Software Engineering:** OOPs, SDLC, Requirement Gathering, Agile (Scrum), Business Analysis.
-- 🔹 **Professional Attributes:** Analytical Thinking, Problem Solving, Team Collaboration, Communication.
+- 🔹 **Programming & Querying:** SQL, Python
+- 🔹 **Data Visualization Tools:** Microsoft Excel (VLOOKUP, HLOOKUP, XLOOKUP), Power BI, Power Query, DAX, Dashboard Development
+- 🔹 **Software Engineering Fundamentals:** Object-Oriented Programming (OOPs), SDLC, Business Analysis, Requirement Gathering, Agile (Scrum)
+- 🔹 **Machine Learning & Python Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, ML Fundamentals
+- 🔹 **Professional Skills:** Problem Solving, Analytical Thinking, Team Collaboration, Communication
 
 ---
 
@@ -169,9 +170,10 @@ I have hands-on experience in **data cleaning, dashboard development, business r
 
 ## 🏆 Certifications
 
-- 📜 **Deloitte Data Analytics Job Simulation** – *Forage (2025)*
+- 📜 **[Deloitte Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_JEd7MgRhmrQgybfHe_1751366478083_completion_certificate.pdf)** – *Forage (2025)*  
+  [![View Certificate](https://img.shields.io/badge/View_Certificate-0052CC?style=flat-square&logo=google-chrome&logoColor=white)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_JEd7MgRhmrQgybfHe_1751366478083_completion_certificate.pdf)
   - Presented analytical insights for real-world business scenarios.
-- 📜 **Data Analytics Foundations**
+  - Completed modules on Data Analytics, Problem Solving, and Strategic Reporting.
   - Gained hands-on experience in data cleaning, dashboard creation, and insight presentation using Excel & Tableau.
 
 ---
@@ -190,30 +192,12 @@ I have hands-on experience in **data cleaning, dashboard development, business r
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=BhanuPratapVerma23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BhanuPratapVerma23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://bhanupratapverma23.github.io/portfolio">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/bhanu-pratap-verma-1990b4379">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:bhanuverma8081@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/BhanuPratapVerma23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <div align="center">
 
@@ -223,12 +207,3 @@ I have hands-on experience in **data cleaning, dashboard development, business r
 
 </div>
 
----
-
-<div align="center">
-
-### ⭐ Thank you for visiting my profile!
-
-*"Turning raw data into meaningful business insights through analytics and visualization."*
-
-</div>
