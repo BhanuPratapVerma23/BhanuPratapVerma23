@@ -43,38 +43,79 @@ I continuously improve my skills by building practical projects and learning mod
 </p>
 
 ---
-
 # 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
+<table>
+<tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github"/>
-</p>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+<br><b>Python</b>
+</td>
 
-### Data Analytics & Visualization
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+<br><b>SQL</b>
+</td>
 
-<p>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+<br><b>Pandas</b>
+</td>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
+<br><b>NumPy</b>
+</td>
 
-<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55"/>
+<br><b>Scikit-Learn</b>
+</td>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</tr>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<tr>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>
+<br><b>Power BI</b>
+</td>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019_present.svg" width="55"/>
+<br><b>MS Excel</b>
+</td>
 
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<td align="center" width="96">
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="55"/>
+<br><b>Matplotlib</b>
+</td>
 
+<td align="center" width="96">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55"/>
+<br><b>Seaborn</b>
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+<br><b>Git</b>
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+<br><b>GitHub</b>
 </p>
 
 </div>
+
+
 
 ---
 
