@@ -22,25 +22,36 @@ I continuously improve my skills by building practical projects and learning mod
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://bhanupratapverma23.github.io/portfolio/">
+        <img src="https://img.icons8.com/color/480/globe--v1.png" width="40" height="40" alt="Portfolio"/><br/>
+        <b>Portfolio</b>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/bhanu-pratap-verma-1990b4379/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/><br/>
+        <b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="mailto:bhanuverma8081@gmail.com">
+        <img src="https://img.icons8.com/color/480/gmail-new.png" width="40" height="40" alt="Gmail"/><br/>
+        <b>Gmail</b>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/BhanuPratapVerma23">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>
+        <b>GitHub</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://bhanupratapverma23.github.io/portfolio/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge"/>
-</a>
 
-<a href="https://www.linkedin.com/in/bhanu-pratap-verma-1990b4379/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bhanuverma8081@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/BhanuPratapVerma23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
