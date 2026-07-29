@@ -47,26 +47,58 @@ I continuously improve my skills by building practical projects and learning mod
 ### 🛠️ Tech Stack & Tools
 
 #### 🐍 Programming & Analysis
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/><br/>
+      <b>SQL</b>
+    </td>
+  </tr>
+</table>
 
 #### 📊 Data Manipulation & Machine Learning
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br/>
+      <b>Pandas</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br/>
+      <b>NumPy</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn"/><br/>
+      <b>Scikit-Learn</b>
+    </td>
+  </tr>
+</table>
 
 #### 📈 Data Visualization & BI Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi" alt="powerbi" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/480/microsoft-excel-2019.png" alt="excel" width="50" height="50"/>
-</p>
-
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/><br/>
+      <b>Power BI</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/480/microsoft-excel-2019.png" width="40" height="40" alt="MS Excel"/><br/>
+      <b>MS Excel</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/><br/>
+      <b>Matplotlib</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/><br/>
+      <b>Seaborn</b>
+    </td>
+  </tr>
+</table>
 ---
 # 💡 Core Skills
 
