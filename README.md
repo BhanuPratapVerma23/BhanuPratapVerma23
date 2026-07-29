@@ -44,79 +44,22 @@ I continuously improve my skills by building practical projects and learning mod
 
 ---
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
+#### 🐍 Programming & Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<table>
-<tr>
+#### 📊 Data Manipulation & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-<br><b>Python</b>
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-<br><b>SQL</b>
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
-<br><b>Pandas</b>
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
-<br><b>NumPy</b>
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55"/>
-<br><b>Scikit-Learn</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55"/>
-<br><b>Power BI</b>
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55"/>
-<br><b>MS Excel</b>
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="55"/>
-<br><b>Matplotlib</b>
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="55"/>
-<br><b>Seaborn</b>
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-<br><b>Git</b>
-</td>
-
-</tr>
-
-</table>
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
-<br><b>GitHub</b>
-</p>
-
-</div>
-
-
+#### 📈 Data Visualization & BI Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 # 💡 Core Skills
