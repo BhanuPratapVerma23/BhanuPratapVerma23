@@ -234,7 +234,7 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhanuPratapVerma23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BhanuPratapVerma23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
