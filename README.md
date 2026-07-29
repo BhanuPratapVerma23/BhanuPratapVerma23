@@ -43,6 +43,7 @@ I continuously improve my skills by building practical projects and learning mod
 </p>
 
 ---
+
 # 🛠️ Tech Stack
 
 <div align="center">
@@ -80,23 +81,22 @@ I continuously improve my skills by building practical projects and learning mod
 <tr>
 
 <td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55"/>
 <br><b>Power BI</b>
 </td>
 
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55"/>
-<br><b>MS Excel</b><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55"/>
 <br><b>MS Excel</b>
 </td>
 
 <td align="center" width="96">
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="55"/>
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="55"/>
 <br><b>Matplotlib</b>
 </td>
 
 <td align="center" width="96">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55"/>
+<img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="55"/>
 <br><b>Seaborn</b>
 </td>
 
@@ -115,7 +115,6 @@ I continuously improve my skills by building practical projects and learning mod
 </p>
 
 </div>
-
 
 
 ---
