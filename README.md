@@ -224,9 +224,9 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BhanuPratapVerma23&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuPratapVerma23&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=BhanuPratapVerma23&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BhanuPratapVerma23&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -234,7 +234,7 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BhanuPratapVerma23&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhanuPratapVerma23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
