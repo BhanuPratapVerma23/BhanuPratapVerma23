@@ -4,7 +4,7 @@
 
 ### 📊 Data Analyst | Python | SQL | Power BI | MS Excel
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Insights.;Passionate+about+Data+Analytics.;Building+Data-Driven+Solutions.;Always+Learning+Something+New." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Insights.;Passionate+about+Data+Analytics+%26+BI.;Building+Data-Driven+Interactive+Dashboards.;Always+Learning+Something+New." alt="Typing SVG" />
 
 </div>
 
@@ -12,11 +12,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **B.Tech Computer Science Graduate** passionate about **Data Analytics** and **Business Intelligence**.
+Computer Science and Engineering graduate with a strong foundation in **Data Analytics, Python, SQL, Excel, and Power BI**. 
 
-I enjoy solving real-world business problems using **Python, SQL, Power BI, and Microsoft Excel**. My goal is to transform raw data into meaningful insights through analytics, dashboards, and visualization.
-
-I continuously improve my skills by building practical projects and learning modern data analysis tools.
+I have hands-on experience in **data cleaning, dashboard development, business reporting, and requirement analysis**. Passionate about solving business problems using data, collaborating in team environments, and delivering actionable insights to drive data-driven decision making.
 
 ---
 
@@ -25,13 +23,13 @@ I continuously improve my skills by building practical projects and learning mod
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="https://bhanupratapverma23.github.io/portfolio/">
+      <a href="https://bhanupratapverma23.github.io/portfolio">
         <img src="https://img.icons8.com/color/480/globe--v1.png" width="40" height="40" alt="Portfolio"/><br/>
         <sub><b>Portfolio</b></sub>
       </a>
     </td>
     <td align="center" width="100">
-      <a href="https://www.linkedin.com/in/bhanu-pratap-verma-1990b4379/">
+      <a href="https://linkedin.com/in/bhanu-pratap-verma-1990b4379">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/><br/>
         <sub><b>LinkedIn</b></sub>
       </a>
@@ -111,12 +109,12 @@ I continuously improve my skills by building practical projects and learning mod
 
 ---
 
-## 💡 Core Skills
+## 💡 Core Skills & Fundamentals
 
-- 🔹 **Data Analytics & EDA:** Data Cleaning, Statistical Analysis, Exploratory Data Analysis.
-- 🔹 **Business Intelligence:** Dashboard Development, Power BI Reporting, KPI Tracking.
-- 🔹 **Database & Querying:** SQL Query Optimization, Database Management.
-- 🔹 **Soft Skills:** Data-Driven Decision Making, Problem Solving, Business Communication.
+- 🔹 **Data Analytics & Visualization:** Data Cleaning, Power Query, DAX, Dashboard Development, EDA.
+- 🔹 **Data Querying & Formulas:** Advanced Excel (VLOOKUP, HLOOKUP, XLOOKUP), SQL Querying.
+- 🔹 **Software Engineering:** OOPs, SDLC, Requirement Gathering, Agile (Scrum), Business Analysis.
+- 🔹 **Professional Attributes:** Analytical Thinking, Problem Solving, Team Collaboration, Communication.
 
 ---
 
@@ -126,43 +124,29 @@ I continuously improve my skills by building practical projects and learning mod
 <tr>
 <td width="50%" valign="top">
 
-### 📊 HR Analytics Dashboard
+### 🛒 E-commerce Customer Behavior Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-- Built an interactive HR dashboard using Power BI.
-- Designed KPI cards, charts, and slicers for dynamic reporting.
-- Analyzed employee attrition trends to support business decisions.
-- Created clean visual layouts for HR insights.
+- Analyzed **5,000+ customer transaction records** to uncover purchasing trends.
+- Cleaned, validated, and transformed raw datasets using **Python, Pandas, and SQL**.
+- Built interactive **Power BI dashboards** to visualize KPIs, sales trends, and customer segmentation.
+- Generated actionable insights to drive strategic business decisions.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛒 Customer Behavior Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+### 📊 HR Analytics Dashboard
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-008080?style=flat-square&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-- Cleaned and analyzed large customer datasets.
-- Identified customer purchasing patterns and segmentation trends.
-- Built visual dashboards to present key business insights.
-- Performed exploratory data analysis for strategic decision-making.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🌐 Personal Portfolio Website
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-- Designed and developed a fully responsive personal portfolio.
-- Integrated Resume, GitHub, LinkedIn, and Certification sections.
-- Optimized for desktop and mobile viewing.
-- Hosted using GitHub Pages.
+- Analyzed **1,470 employee records** to evaluate workforce trends and attrition rates.
+- Performed rigorous data cleaning and transformation using **Power Query**.
+- Designed interactive Power BI dashboards using **DAX measures** for dynamic reporting.
+- Delivered business insights to facilitate data-driven HR strategies.
 
 </td>
 </tr>
@@ -170,10 +154,25 @@ I continuously improve my skills by building practical projects and learning mod
 
 ---
 
+## 🎓 Education
+
+🎓 **B.Tech in Computer Science and Engineering** | *GLA University, Mathura* (2022 – 2026)
+- **CGPA:** 6.94/10
+
+🏫 **Class XII (Intermediate)** | *Tulip Public School, Etah* (2020 – 2021)
+- **Percentage:** 87.20%
+
+🏫 **Class X (High School)** | *Tulip Public School, Etah* (2018 – 2019)
+- **Percentage:** 82.17%
+
+---
+
 ## 🏆 Certifications
 
-### 📜 Deloitte Data Analytics Job Simulation
-- **Key Modules:** Data Cleaning • Data Analysis • Visualization • Dashboard Development • Business Insights • Professional Reporting
+- 📜 **Deloitte Data Analytics Job Simulation** – *Forage (2025)*
+  - Presented analytical insights for real-world business scenarios.
+- 📜 **Data Analytics Foundations**
+  - Gained hands-on experience in data cleaning, dashboard creation, and insight presentation using Excel & Tableau.
 
 ---
 
@@ -197,22 +196,13 @@ I continuously improve my skills by building practical projects and learning mod
 
 ---
 
-## 🎯 Current Focus
-
-- 📊 Deepening Expertise in Data Analytics & Visualization
-- 📈 Advanced Dashboarding in Power BI
-- 🗄️ Complex SQL Query Optimization
-- 🐍 Machine Learning Fundamentals with Python
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://bhanupratapverma23.github.io/portfolio/">
+  <a href="https://bhanupratapverma23.github.io/portfolio">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bhanu-pratap-verma-1990b4379/">
+  <a href="https://linkedin.com/in/bhanu-pratap-verma-1990b4379">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:bhanuverma8081@gmail.com">
@@ -222,6 +212,16 @@ I continuously improve my skills by building practical projects and learning mod
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+*"Turning raw data into meaningful business insights through analytics and visualization."*
+
+</div>
 
 ---
 
