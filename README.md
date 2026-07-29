@@ -85,7 +85,8 @@ I continuously improve my skills by building practical projects and learning mod
 </td>
 
 <td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019_present.svg" width="55"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55"/>
+<br><b>MS Excel</b><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55"/>
 <br><b>MS Excel</b>
 </td>
 
